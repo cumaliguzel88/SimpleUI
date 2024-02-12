@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidStart</string>
+    <string name="pizzaBaslık">Etli Peynirli</string>
+    <string name="peynir">Peynir</string>
+    <string name="sucukYazi">Sucuk</string>
+    <string name="zeytinYazı">Zeytin</string>
+    <string name="biberYzı">Biber</string>
+    <string name="teslimatSure">20 dakika</string>
+    <string name="teslimatBaslık">Gönderim</string>
+    <string name="teslimatAciklama">Et aşkı,pizzanla tanışmaya hazırlanın</string>
+    <string name="fiyatYazi">125 ₺</string>
+    <string name="buttonYazi">SEPETE EKLE</string>
+
+
+
+
+</resources>
